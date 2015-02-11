@@ -1,0 +1,1 @@
+Run the main.c file and server automatically connects to apollo.cselabs.umn.edu, portnumber 9080. The main program forks the server and makes it listen for the client and the client will automatically input all requirements from the server. You can compile it by running the make file using the command, "make makefile". That should achieve all the necessary results. 
